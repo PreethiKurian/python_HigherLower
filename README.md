@@ -1,5 +1,4 @@
-# Project Title
-Higher Lower game with Popular Indian Dishes of 2024
+# Higher Lower game with Popular Indian Dishes of 2024
 
 ## 📌 Description
 
@@ -15,41 +14,41 @@ Whether you're a foodie or just love trivia, this game is a quick and engaging w
 or download zip folder
 
 
-2.** 🚀 How to Play**
-cd python_HigherLower-main
-python main.py
+2. **How to Play**
+   ```bash
+   cd python_HigherLower-main
+   python main.py
 
-********************************************************************************************************************************************************************
-********************************************************************************************************************************************************************
-Sample:
-C:\Users\preet\Downloads\python_HigherLower-main>cd python_HigherLower-main
+         Sample:
+         
+         C:\Users\<username>\Downloads\python_HigherLower-main>cd python_HigherLower-main
+         
+         C:\Users\<username>\Downloads\python_HigherLower-main\python_HigherLower-main>python main.py
+         
+             __  ___       __
+            / / / (_)___ _/ /_  ___  _____
+           / /_/ / / __ `/ __ \/ _ \/ ___/
+          / __  / / /_/ / / / /  __/ /
+         /_/ ///_/\__, /_/ /_/\___/_/
+            / /  /____/_      _____  _____
+           / /   / __ \ | /| / / _ \/ ___/
+          / /___/ /_/ / |/ |/ /  __/ /
+         /_____/\____/|__/|__/\___/_/
+         
+         
+         *****************************************************************************************************
+         Compare A: Pav Bhaji - A spicy vegetable mash served with buttered bread rolls.
+         
+          _    __
+         | |  / /____
+         | | / / ___/
+         | |/ (__  )
+         |___/____(_)
+         
+         Against B:Bhindi Masala - Okra cooked with onions, tomatoes, and spices.
 
-C:\Users\preet\Downloads\python_HigherLower-main\python_HigherLower-main>python main.py
+3. **The program will display two dishes at a time.**
 
-    __  ___       __
-   / / / (_)___ _/ /_  ___  _____
-  / /_/ / / __ `/ __ \/ _ \/ ___/
- / __  / / /_/ / / / /  __/ /
-/_/ ///_/\__, /_/ /_/\___/_/
-   / /  /____/_      _____  _____
-  / /   / __ \ | /| / / _ \/ ___/
- / /___/ /_/ / |/ |/ /  __/ /
-/_____/\____/|__/|__/\___/_/
+4. **Guess which one was more popular by typing A or B.**
 
-
-*****************************************************************************************************
-Compare A: Pav Bhaji - A spicy vegetable mash served with buttered bread rolls.
-
- _    __
-| |  / /____
-| | / / ___/
-| |/ (__  )
-|___/____(_)
-
-Against B:Bhindi Masala - Okra cooked with onions, tomatoes, and spices.
-
-3. The program will display two dishes at a time.
-
-4. Guess which one was more popular by typing A or B.
-
-5. If you're correct, your score increases and the game continues. The game ends when you guess incorrectly.
+5. **If you're correct, your score increases and the game continues. The game ends when you guess incorrectly.**
